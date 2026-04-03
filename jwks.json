@@ -4,9 +4,9 @@
     "kty": "RSA",
     "e": "AQAB",
     "use": "sig",
-    "kid": "Kryon-ECW-Auth",
-    "alg": "RS256",
-    "n": "srPCB_uOaUGgRG5KOz4NaQYq2lyufuXW-GoAi7VturdDpqZADHt_CVxlKwQx9mtVqfT0lrihlOcg8rng352hiKbZSf3UJH2cckQd5vEwdH4T-XqBOlMF7Kna4RjW5NvQ8hP3sfs-dhW_UCePJzGvLwN_B_lvZKDZhvytM5xH_GTKuZ6QeuGxlK0YgnOanrv7ZrvTbBoPNxm3z3kQKm6XSWVVfKtA9KmUvYQsavhHSOfwWQ2EXT9EzzzJBZpAa77A1P3PKSP0tT8hBQfNbM3MqLZ6Q1n8Nk0i_VdENwPOWlJFNqcOU85Dz6ZOOqec0Y-QKH1pHu56FCIbLsRwGP8s3Q"
+    "kid": "Kyron-ECW-Auth",
+    "alg": "RS384",
+    "n": "gdMVeQ1qEHBEKQ35NC9lWZP2n3W_0_6ACNrGlTmPeUD6PpLz1epM2ijHElvU_sd36dCSVEXiUX6DFuUeRjTOi6d70xg8sH1Pq9y3h5MhlYjiAv6_ml7jwkViH4YPjWKLwxZNVRK0CC3Vs3I3nalm2EN4OhUOsOWiOIVJ_rVTsitCDF38Njj8Kdjzw2oKgQSlWfYb4oYWKxmafGHSJtZBZtn0KloUeDqv3r7dwp1GdDIBQuMxf1fGR8aY1KjGmRzJWH19Crxzj6e0-rqpEn5T0snOCwzOlw4QvdDBJ2tVa2YL-37Z9gIx8ny541Ywq_v94_jjoygYf8gDsKYGBTTLfQ"
     }
   ]
 }
